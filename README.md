@@ -51,3 +51,10 @@
    @tailwind components;
    @tailwind utilities;
 '''
+
+
+### Adding Pluging and Dependencies 
+
+'''
+   npm install @reduxjs/toolkit react-redux react-router-dom react-icon react-chartjs-2 chart.js daisyui axi os react-hot-toast @tailwindcss/line-clamp
+'''
